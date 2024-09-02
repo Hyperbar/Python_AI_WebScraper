@@ -33,3 +33,5 @@ if "dom_content" in st.session_state:
             result = parse_with_ollama(dom_chunks, parse_description)
             st.write(result)
 
+# Video Tutorial:
+# https://www.youtube.com/watch?v=Oo8-nEuDBkk&t=205s
